@@ -32,7 +32,7 @@ Retorna todas as cotações registradas manualmente no cache.
 Exemplo: GET http://localhost:3000/historico
 
 
-🧩 Como usar
+## 🧩 Como usar
 
 Clone o projeto:
 
@@ -55,16 +55,16 @@ Editar
 npm start
 Teste via Postman, Insomnia ou navegador!
 
-⚙️ Justificativa da Linguagem
+## ⚙️ Justificativa da Linguagem
 Escolhi JavaScript (Node.js) por ser uma tecnologia leve, rápida e eficiente para criação de APIs RESTful. Node.js possui uma grande comunidade, é extremamente simples de configurar e ideal para protótipos e projetos de aprendizado como este. Além disso, a integração com bibliotecas como express e axios facilita muito o desenvolvimento.
 
-📦 Hospedagem
+## 📦 Hospedagem
 Você pode facilmente hospedar essa API gratuitamente usando plataformas como:
 
 Render.
 
 Vercel.
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Feito por João Paulo Ramos Lopes
