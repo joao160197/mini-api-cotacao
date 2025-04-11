@@ -31,3 +31,7 @@ Registra manualmente uma cotação no cache de memória.
 
 - `GET /historico`  
 Retorna todas as cotações registradas manualmente no cache.
+
+
+## 👨‍💻 Autor
+Feito por João Paulo Ramos Lopes.
