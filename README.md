@@ -29,12 +29,12 @@ Você pode hospedar essa API gratuitamente em serviços como:
 - `POST /cotacao`  
 Registra manualmente uma cotação no cache de memória.
 
-Exemplo: GET http://localhost:3000/cotacao
+   Exemplo: GET http://localhost:3000/cotacao
 
 - `GET /historico`  
 Retorna todas as cotações registradas manualmente no cache.
 
-Exemplo: GET http://localhost:3000/historico
+   Exemplo: GET http://localhost:3000/historico
 
 
 ## 👨‍💻 Autor
